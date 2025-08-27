@@ -17,7 +17,9 @@ Code  Example;
 </div>
 
 **After(semantic html):*
-<header><h1>Repository 2</h1></header>
+<!DOCTYPE html>
+  <html lang="en">
+      <header><h1>Repository 2</h1></header>
 <main>
     <Implementation of semantic html> 
         <h2>First Post</h2>
@@ -27,4 +29,5 @@ Code  Example;
         <h3>text....</h3>
     </aside>
 </main>
-<footer>2025 Repository 2</footer> 
+<footer>2025 Repository 2</footer>
+<\html>
