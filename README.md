@@ -1,33 +1,13 @@
 # Demonstrating semantic-html
-Code  Example;
-**Before(non-semantic html):*
-<div>
-    <div>
-        <span>Repository 2</span> 
-    </div>
-    <div>Implementation of semantic Html <div>
-            <span>First Post</span>
-            <div>A public blog of the same is on my forem account@Pinchez_Coder</div>
-        </div>
-        <div>
-            <span>Text...</span>
-        </div>
-    </div>
-    <div>2025 Repository 2</div>
-</div>
 
-**After(semantic html):*
-<!DOCTYPE html>
-  <html lang="en">
-      <header><h1>Repository 2</h1></header>
-<main>
-    <Implementation of semantic html> 
-        <h2>First Post</h2>
-        <p>A public blog of the same is in my forem account @Pinchez_Coder</p> 
-    </article>
-    <aside>
-        <h3>text....</h3>
-    </aside>
-</main>
-<footer>2025 Repository 2</footer>
-<\html>
+°Code  Example;
+
+https://codepen.io/Pinchez-Coder/pen/jEbXZER
+
+📌The ☝️above pen is illustrating of how the **HTML** operates in a more understanble commands when operating under the semantic format.
+
+-In semantic form,**HTML** appears to be in a proper official manner compared by it's **non-semantic** way as shown by the code example in comparison.
+
+-More information on the **implementation of semantic html** is in my dev.to post under my forem account -
+
+https://dev.to/pinchez_coder
